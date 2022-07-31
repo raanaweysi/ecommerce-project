@@ -202,7 +202,6 @@ body {
 
 #feature .fe-box:nth-child(6) h6{
     background-color: #fff2e5;
-<<<<<<< HEAD
 }
 
 /* product1 */
@@ -316,7 +315,6 @@ body {
     background-color: #088178;
     color: #fff;
     
-=======
 }#feature{
     display: flex;
     justify-content: space-between;
@@ -370,5 +368,4 @@ body {
 
 #feature .fe-box:nth-child(6) h6{
     background-color: #fff2e5;
->>>>>>> master
 }
