@@ -56,7 +56,6 @@ button.normal{
     transition: 0.2s;
 }
 
-<<<<<<< HEAD
 button.white{
     font-size: 13px;
     font-weight: 600;
@@ -68,8 +67,6 @@ button.white{
     outline: none;
     transition: 0.2s;
 }
-=======
->>>>>>> master
 
 body {
     width: 100%;
