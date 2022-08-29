@@ -164,6 +164,9 @@ body {
     font-weight: 700;
     font-size: 15px;
 }
+
+/* Feature */
+
 #feature{
     display: flex;
     justify-content: space-between;
@@ -298,6 +301,7 @@ body {
     text-align: center;
 }
 
+/* Banner */
 
 #banner {
     display: flex;
@@ -380,6 +384,8 @@ body {
     border: 1px solid #088178;
 }
 
+/* Banner3 */
+
 #banner3{
     display: flex;
     justify-content: space-between;
@@ -420,6 +426,8 @@ body {
     font-weight: 800;
     font-size: 15px;
 }
+
+/* Newsatter */
 
 #newsletter{
     display: flex;
@@ -535,7 +543,7 @@ footer a {
     text-align: center;
  }
 
-  /* shoop page */
+  /* shop page */
 
   #page-header {
     background-image: url(/img/banner/b1.jpg);
