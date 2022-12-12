@@ -1,10 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=League+Spartan&display=swap");
+@font-face{
+  font-family: iran;
+  src: url(fonts/iran.ttf);
+}
+/* @import url("https://fonts.googleapis.com/css2?family=League+Spartan&display=swap"); */
 
 * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: "League Spartan", sans-serif;
+  font-family: iran;
+  /* font-family: "League Spartan", sans-serif; */
   /* direction: rtl; */
 }
 
